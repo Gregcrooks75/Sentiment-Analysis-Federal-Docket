@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project performs sentiment analysis on public comments submitted to a federal docket titled **"Endangered and Threatened Species: Critical Habitat Designations for Florida Manatee and Antillean Manatee."** It employs **Natural Language Processing (NLP)** techniques to extract, process, and analyze public feedback, aiming to derive insights into public sentiment and highlight key themes and trends.
+This project performs sentiment analysis on public comments submitted to a federal docket titled **"Heat Injury and Illness Prevention in Outdoor and Indoor Work Settings"** It employs **Natural Language Processing (NLP)** techniques to extract, process, and analyze public feedback, aiming to derive insights into public sentiment and highlight key themes and trends.
 
 By analyzing these comments, the project sheds light on public opinion regarding federal regulations, identifies common concerns, and visualizes geographical trends in sentiment.
 
